@@ -1,2 +1,6 @@
 # Python-Functions-Files-and-Dictionaries
-Problems are taken from Runestone Interactive Book. There is nothing to worry. Because Questions are included with solutions. Python 3 
+Problems are taken from Runestone Interactive Book. There is nothing to worry. Because Questions are included with solutions. Python 3 programming language is used to solve problems. 
+The link of Runestone interactive is - http://runestoneinteractive.org/
+Don't paste the code. Try to find out the logic behind the solution. 
+Happy Coding....
+Stay Tuned....
